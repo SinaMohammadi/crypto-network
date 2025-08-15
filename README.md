@@ -26,6 +26,9 @@ Lightweight TypeScript Express API that exposes balances and transaction endpoin
 ## Setup
 Install dependencies:
 
+## Stages
+It's not complete yet
+
 ```sh
 # sh
 pnpm install
